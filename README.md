@@ -18,7 +18,7 @@
 ![gambar tugas4html](tugas4html-4.png)  
 Di halaman 3 tambahkan link yang mengarah ke Website bola.net dan ketika di Klik membuka tab baru (target=”_blank”)  
 *** - halaman4.html :  
-![gambar tugas4html](tugas4html-5.PNG)  
+![gambar tugas4html](tugas4html-5.png)  
 Di halaman 4 tambahkan link yang mengarah ke Website motogp.com dan ketika di Klik membuka tab baru (target=”_blank”)  
 
 
