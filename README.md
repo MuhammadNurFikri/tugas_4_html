@@ -8,16 +8,16 @@
 - Didlaam folder motogp buatlah file halaman4.html  
 ![gambar tugas4html](tugas4html.png)  
 3. Tuliskan code HTML di masing-masing halaman dan ketika dijalankan akan menampilkan seperti berikut :  
-*** - index.html :  
+*** index.html :  
 ![gambar tugas4html](tugas4html-1.png) 
-*** - halaman1.html :  
+*** halaman1.html :  
 ![gambar tugas4html](tugas4html-2.png)  
-*** - halaman2.html :  
+*** halaman2.html :  
 ![gambar tugas4html](tugas4html-3.png)  
-*** - halaman3.html :  
+*** halaman3.html :  
 ![gambar tugas4html](tugas4html-4.png)  
 Di halaman 3 tambahkan link yang mengarah ke Website bola.net dan ketika di Klik membuka tab baru (target=”_blank”)  
-*** - halaman4.html :  
+*** halaman4.html :  
 ![gambar tugas4html](tugas4html-5.png)  
 Di halaman 4 tambahkan link yang mengarah ke Website motogp.com dan ketika di Klik membuka tab baru (target=”_blank”)  
 
